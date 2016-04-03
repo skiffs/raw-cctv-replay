@@ -1,0 +1,3 @@
+The RAW system provides a system for playing back video data stored on hard drives taken from video surveillance (CCTV) equipment.
+
+Since there are many different CCTV systems, and also many differing schemes for storing their data on disk, the RAW system uses a plugin mechanism to handle the decoding of specific data. This is specifically designed to make it relatively simple to write new plugins as necessary.
